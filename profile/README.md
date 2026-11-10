@@ -40,9 +40,9 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3><a href="https://github.com/GalgameCriticism/GalgameCriticism-weekly-text-publishing-skills">周报发布 Skills</a></h3>
-<p>周报文字版与图文版的多平台发布技能，按平台拆分、可单独安装。</p>
+<p>周报文字版与图文版的多平台发布技能：按平台拆分、可单独安装，装哪个用哪个。</p>
 <p>
 <img alt="WeChat" src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-8E6A61?style=flat-square">
 <img alt="Bilibili" src="https://img.shields.io/badge/B%E7%AB%99-8E6A61?style=flat-square">
@@ -51,7 +51,21 @@
 <img alt="Zhihu" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-8E6A61?style=flat-square">
 </p>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+<h3><a href="https://github.com/GalgameCriticism/Autoweekly-skills">周报生产 Skills</a></h3>
+<p>用 Photoshop 与 After Effects 批量生成周报封面、栏目角标和片头片尾，四个 skill 各自独立。</p>
+<p>
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-C1654B?style=flat-square&logo=adobephotoshop&logoColor=FFFFFF">
+<img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-C1654B?style=flat-square&logo=adobeaftereffects&logoColor=FFFFFF">
+<img alt="Python" src="https://img.shields.io/badge/Python-C1654B?style=flat-square&logo=python&logoColor=FFFFFF">
+</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/GalgameCriticism/XiaoheiheMcpServer">小黑盒 MCP 服务器</a></h3>
 <p>面向小黑盒的 MCP 服务：发帖、长文、视频、评论与内容检索，登录态留在本机。</p>
 <p>
@@ -60,7 +74,7 @@
 <img alt="Playwright" src="https://img.shields.io/badge/Playwright-C1654B?style=flat-square">
 </p>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3><a href="https://tgga.galcriticism.org">TGGA</a></h3>
 <p>The Galgame Awards，年度 Galgame 评选投票。2026 年为第二届，评选范围是 2025 年 11 月至 2026 年 10 月发售的日本 Galgame。</p>
 <p>
